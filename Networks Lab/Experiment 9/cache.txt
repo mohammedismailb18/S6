@@ -1,0 +1,8 @@
+A google.com 142.250.196.14
+AAAA google.com 2404:6800:4007:829::200e
+NS nitc.ac.in ebox.nitc.ac.in.
+CNAME www.nitc.ac.in cnet.nitc.ac.in.
+A www.youtube.com 172.217.163.46
+A www.amazon.com 205.251.242.103
+A www.flipkart.com 163.53.78.110
+AAAA www.yahoo.com 2001:4998:44:3507::8000
